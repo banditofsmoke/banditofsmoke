@@ -1,14 +1,15 @@
 # Wayne Sletcher | banditofsmoke 🏴‍☠️
 
 <div align="center">
-  <a href="[[https://www.buymeacoffee.com/waynesletcher](https://ko-fi.com/waynesletcher)]" target="_blank">
+  <a href="https://ko-fi.com/waynesletcher" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
   <br />
-  <a href="[https://www.buymeacoffee.com/waynesletcher](https://ko-fi.com/waynesletcher)" target="_blank">
+  <a href="https://ko-fi.com/waynesletcher" target="_blank">
     <strong>Buy Me a Coffee! ☕️</strong>
   </a>
 </div>
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynesletcheraisystemsbuilder)
