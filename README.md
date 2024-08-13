@@ -1,7 +1,7 @@
 # Wayne Sletcher | banditofsmoke 🏴‍☠️
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/waynesletcher" target="_blank">
+  <a href="[https://www.buymeacoffee.com/waynesletcher](https://ko-fi.com/waynesletcher)" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
   <br />
