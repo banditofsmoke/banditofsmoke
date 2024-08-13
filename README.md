@@ -1,36 +1,61 @@
-<p align="center">
-  <a href="https://ko-fi.com/waynesletcher"><img src="buy me a coffee button.png" height="48"></a>
-</p>
+# Wayne Sletcher | banditofsmoke 🏴‍☠️
 
-LinkedIn: [Wayne Sletcher](https://www.linkedin.com/in/waynesletcheraisystemsbuilder)
-Email: skeletonenglish@gmail.com
-GitHub: [banditofsmoke](https://github.com/banditofsmoke)
+<div align="center">
+  <a href="https://www.buymeacoffee.com/waynesletcher" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217" />
+  </a>
+  <br />
+  <a href="https://www.buymeacoffee.com/waynesletcher" target="_blank">
+    <strong>Buy Me a Coffee! ☕️</strong>
+  </a>
+</div>
 
-Made in Sledge's Forge (Private Discord)
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynesletcheraisystemsbuilder)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banditofsmoke)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skeletonenglish@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sledgesforge)
 
-Hey, I'm just me. Wayne. 
-My coding mentors are Sebdg, and Leoleojames1. 
+## 🚀 About me
+Hey, I'm Wayne, a passionate coder and adventure-seeker! 🏞️
+- 🌟 Mentored by Sebdg and Leoleojames1
+- 🔧 Creator of Sletcher Systems and Global Defense Network
+- 💡 Always exploring new technologies and pushing boundaries
 
-I love to build projects around:
+## 🛠️ Interests & Expertise
+I love building projects around:
 
-- Object oriented programming 
-- RAG systems ( tiny tO INDUSTRY level systems )
-- LLMs
-- Agentic reasoning crews and tools
-- function calling
-- data science, forecasting, time series, ontologies, mapping (10 MILLION LINES +)
-- full stack apps
-- real time communications networks
-- cyber security projects
-- smart contracts
-- hexadecimal encryptions
-- LATEX PDF
-- 
+- 💻 Object-oriented programming
+- 🧠 RAG systems (from tiny to industry level)
+- 🤖 LLMs and Uncensored LLMs
+- 🚣‍♂️ Agentic reasoning crews and tools
+- 📞 Function calling
+- 📊 Data science, forecasting, time series, ontologies, mapping (10M+ lines)
+- 🌐 Full stack apps and machines
+- 📡 Real-time communications networks
+- 🔒 Cybersecurity projects
+- 📈 Smart contracts
+- 🔑 Hexadecimal encryptions
+- 📄 LaTeX PDF generation
+- 📊 Multimodal models
+- 💾 Memory and thread script management
 
-  ... and well... I am the creater of Sletcher Systems, and Global Defense Network (Stealth stuffs).
+## 🏆 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  
-<!---
-banditofsmoke/banditofsmoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=banditofsmoke&show_icons=true&theme=radical" />
+
+## 🎯 Current Focus
+I'm currently diving deep into advanced AI systems and blockchain technologies. Always open to collaborations and exciting projects!
+
+---
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
