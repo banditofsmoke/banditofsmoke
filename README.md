@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ko-fi.com/waynesletcher"><img src="doc/buy me a coffee button.png" height="48"></a>
+  <a href="https://ko-fi.com/waynesletcher"><img src="buy me a coffee button.png" height="48"></a>
 </p>
 
 LinkedIn: [Wayne Sletcher](https://www.linkedin.com/in/waynesletcheraisystemsbuilder)
