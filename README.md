@@ -19,7 +19,6 @@
 
 ## 🚀 About me
 Hey, I'm Wayne, a passionate coder and adventure-seeker! 🏞️
-- 🌟 Mentored by Sebdg and Leoleojames1
 - 🔧 Creator of Sletcher Systems and Global Defense Network
 - 💡 Always exploring new technologies and pushing boundaries
 
