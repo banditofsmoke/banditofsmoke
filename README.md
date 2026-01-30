@@ -8,7 +8,7 @@ I build and ship AI-powered applications. Check out my live work:
 - 🔗 [esl.sletchersystems.com](https://esl.sletchersystems.com/) - AI-powered ESL platform with PayFast integration
 - 🔗 [sletchersystems.com](https://www.sletchersystems.com/) - My portfolio & company site
 
-📄 **[View My CV][(YOUR_CV_LINK_HERE)](https://waynesletchercv.sletchersystems.com/)** | 📧 wsletcher@gmail.com | 📍 Port Elizabeth, South Africa
+📄 **[View My CV](https://waynesletchercv.sletchersystems.com/)** | 📧 wsletcher@gmail.com | 📍 Port Elizabeth, South Africa
 
 ---
 
