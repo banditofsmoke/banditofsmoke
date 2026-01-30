@@ -72,7 +72,7 @@ Explore my repositories to see:
 - 🔹 Document processing and RAG systems
 
 **Check out my pinned repositories below ⬇️**
-
+There are 3 repos I would love to showcase, however due to security, best not to. 
 ---
 
 <div align="center">
