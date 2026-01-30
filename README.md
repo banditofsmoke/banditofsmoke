@@ -8,7 +8,7 @@ I build and ship AI-powered applications. Check out my live work:
 - 🔗 [esl.sletchersystems.com](https://esl.sletchersystems.com/) - AI-powered ESL platform with PayFast integration
 - 🔗 [sletchersystems.com](https://www.sletchersystems.com/) - My portfolio & company site
 
-📄 **[View My CV] | 📧 wsletcher@gmail.com | 📍 Port Elizabeth, South Africa
+📄 **[View My CV](YOUR_CV_LINK_HERE)** | 📧 wsletcher@gmail.com | 📍 Port Elizabeth, South Africa
 
 ---
 
@@ -63,8 +63,15 @@ I'm seeking a junior to mid-level role where I can:
 
 ---
 
-## 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=banditofsmoke&show_icons=true&theme=radical" />
+## 📂 Featured Projects
+
+Explore my repositories to see:
+- 🔹 AI agent implementations and LLM integrations
+- 🔹 Full-stack application builds
+- 🔹 Rapid prototyping and deployment examples
+- 🔹 Document processing and RAG systems
+
+**Check out my pinned repositories below ⬇️**
 
 ---
 
