@@ -4,7 +4,7 @@
 **AI Engineer | Full-Stack Developer | Production SaaS Builder**
 
 I build and ship AI-powered applications. Check out my live work:
-- 🔗 [e-waive.com](https://e-waive.com/) - Electronic waiver management SaaS (AWS deployment, payment integration)
+- Electronic waiver management SaaS (AWS deployment, payment integration)
 - 🔗 [esl.sletchersystems.com](https://esl.sletchersystems.com/) - AI-powered ESL platform with PayFast integration
 - 🔗 [sletchersystems.com](https://www.sletchersystems.com/) - My portfolio & company site
 
